@@ -1,6 +1,6 @@
 # Library Management System - SQL Analysis
 
-## 📚 Project Overview
+## Project Overview
 
 A comprehensive SQL analysis project that explores library operations through data-driven insights. This project demonstrates proficiency in database design, complex SQL queries, and business intelligence through real-world library management scenarios.
 
@@ -8,7 +8,7 @@ The analysis covers member activity tracking, book circulation patterns, revenue
 
 ---
 
-## 🗂️ Database Schema
+## Database Schema
 
 The database consists of three main tables with the following relationships:
 
@@ -30,7 +30,7 @@ The database consists of three main tables with the following relationships:
 
 ---
 
-## 💻 Technologies Used
+## Technologies Used
 
 - **Database:** SQLite
 - **SQL Techniques:** 
@@ -48,7 +48,7 @@ The database consists of three main tables with the following relationships:
 
 ---
 
-## 🔍 Key Analytical Questions Answered
+## Key Analytical Questions Answered
 
 ### 1. **Collection Performance**
    - Which books are most popular among members?
@@ -72,7 +72,7 @@ The database consists of three main tables with the following relationships:
 
 ---
 
-## 📊 Sample Queries & Insights
+## Sample Queries & Insights
 
 ### Query 1: Top 5 Most Borrowed Books
 **Business Question:** Which books are the most popular among library members?
@@ -161,7 +161,7 @@ GROUP BY b.book_id, b.title;
 
 ---
 
-## 📁 Project Files
+## Project Files
 
 - **`schema.sql`** - Complete database structure with CREATE TABLE statements
 - **`queries.sql`** - All 13 analytical queries with business questions and comments
@@ -171,7 +171,7 @@ GROUP BY b.book_id, b.title;
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. **Setup Database:**
 ```bash
@@ -188,7 +188,7 @@ GROUP BY b.book_id, b.title;
 
 ---
 
-## 💡 Skills Demonstrated
+## Skills Demonstrated
 
 - Database design and normalization
 - Complex SQL query writing
@@ -199,12 +199,12 @@ GROUP BY b.book_id, b.title;
 
 ---
 
-## 📧 Contact
+## Contact
 
 Feel free to reach out for questions or collaboration opportunities!
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available for educational purposes.
